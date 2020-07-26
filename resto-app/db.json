@@ -59,10 +59,34 @@
   ],
   "comments": [
     {
-      "email": "abdallahmrad.simplon@gmail.com",
+      "email": "ghassen.belaoun.simplon@gmail.com",
       "password": "1234",
       "role": "user",
       "id": 1
+    },
+    {
+      "email": "Ghassen.belaoun@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "Ghassen.belaoun.simplon@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "email": "foulan@gmail.com",
+      "password": "00000",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "email": "foulan@gmail.com",
+      "password": "00000",
+      "role": "user",
+      "id": 5
     }
   ],
   "profile": []
